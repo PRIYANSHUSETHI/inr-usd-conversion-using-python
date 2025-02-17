@@ -43,25 +43,6 @@ The dataset used contains historical exchange rates between USD and INR. It incl
 - Integrate external economic indicators to enhance predictions.
 - Deploy the model as a real-time forecasting tool.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   cd usd-inr-prediction
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Python script or Jupyter Notebook:
-   ```bash
-   python script.py
-   ```
-   OR
-   ```bash
-   jupyter notebook usd_inr_conversion.ipynb
-   ```
-
 ## Results
 - The model successfully predicts future exchange rates with reasonable accuracy.
 - Data visualizations provide insights into trends and fluctuations over the years.
@@ -73,10 +54,3 @@ The dataset used contains historical exchange rates between USD and INR. It incl
 
 ## Conclusion
 This project showcases the potential of machine learning in predicting exchange rates using historical data. By leveraging regression models and time-series analysis, trends and future exchange rates can be forecasted with reasonable accuracy. Further improvements, such as advanced deep learning models and external economic factors, can enhance the prediction performance and practical applications.
-
-## Author
-- [Your Name]
-
-## License
-This project is licensed under the MIT License.
-
